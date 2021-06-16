@@ -1,0 +1,21 @@
+.carousel-item {
+
+  &__imagen {
+    width: 100%;
+    height: 40vw;
+    object-fit: cover;
+  }
+
+&__title{;
+   font-family: $lobstertwo;
+   color: rgb(219, 230, 77);
+   opacity: 0.8;
+}
+
+&__parragraph{
+   font-family: $lobstertwo;
+    color: rgb(219, 230, 77);
+    opacity: 0.8;
+}
+
+}

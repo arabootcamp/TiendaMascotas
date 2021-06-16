@@ -1,0 +1,31 @@
+.productos {
+  &__row {
+    align-items: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 15%;
+    margin-top: 5%;
+  }
+
+  &__box {
+    width: 40vh;
+    height: 20vh;
+    transform: rotate(30deg);
+    background-color: #263fff34;
+    position: absolute;
+    z-index: -1;
+  }
+
+  &__img {
+    width: 50vh;
+    position: relative;
+    z-index: 0;
+  }
+}
+
+#scrollTopButton {
+  position: fixed;
+  right: 5%;
+  bottom: 5%;
+  z-index: 1;
+}

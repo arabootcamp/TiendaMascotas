@@ -1,0 +1,13 @@
+// main.scss # Manifest File
+
+//abstracts
+@import 'abstracts/variables';
+//vendors
+@import 'vendors/bootstrap/bootstrap';
+//base
+//layout
+@import 'layout/carousel-container';
+//components
+//pages
+@import 'pages/index';
+//themes

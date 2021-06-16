@@ -10754,6 +10754,18 @@ textarea.form-control-lg {
   border-radius: 50%;
 }
 
+.section-adoption__img {
+  display: block;
+  width: 30%;
+  border-radius: 5%;
+  opacity: 0.8;
+  margin: auto;
+}
+
+.form__container {
+  border-radius: 5%;
+}
+
 .productos__row {
   align-items: center;
   margin-left: 10%;
